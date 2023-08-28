@@ -50,13 +50,14 @@
 <!-- <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /> -->
 <!-- <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
 <!-- <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> -->
-
+<br>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-
-<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<br>
+<i class="devicon-latex-original"></i>          
+<!-- <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> -->
 </section>
 
 <h3 align="left">Languages and Tools that i once used:</h3>
