@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-
 <!-- <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=40 /> -->
 
 <section class="container">
@@ -10,7 +9,7 @@
 
 #
 
-<img width="60" align="right" alt="Cyber Github" width="250" src="hello.gif">
+<img align="right" alt="Cyber Github" width="250" src="hello.gif">
 
 - 🔭 I’m currently working on rechecking my skills
 - 🌱 I’m currently learning web development (React/Advanced js)
@@ -83,8 +82,10 @@
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 </section>
 
+<br>
+<br>
 <h3 align="left">I also use:</h3>
-<section align=center>
+<section >
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain-wordmark.svg" />&emsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg" />&emsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg" />&emsp;
@@ -92,25 +93,26 @@
 </section>
 
 <h3 align="left">I never used this(unless to download Chrome):</h3>
-<section align=center style="margin-bottom: 60px;">
+<section style="margin-bottom: 60px;">
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
 </section>
 
 </section>
 
 <p align=center style="margin-bottom: 60px;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammedMiiRanna&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="MuhammedMiiRanna" />
-</p>
-<!-- <img width="60" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammedMiiRanna&&show_icons=true&theme=dark" alt="MuhammedMiiRanna" /> -->
+    <img align=center src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammedMiiRanna&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="MuhammedMiiRanna" />
 </p>
 
-<p class="center-align">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuhammedMiiRanna" alt="MuhammedMiiRanna" />
-</a>
-</p>
+<!-- <img width="60" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammedMiiRanna&&show_icons=true&theme=dark" alt="MuhammedMiiRanna" /> -->
 
 <p align=center><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMiiRanna&theme=dark" alt="MuhammedMiiRanna" /></p>
+
+
+<p align=center>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align=center src="https://github-profile-trophy.vercel.app/?username=MuhammedMiiRanna" alt="MuhammedMiiRanna" />
+</a>
+</p>
 
 ---
 
