@@ -10,14 +10,15 @@
 #
 
 <!-- <img align="right" alt="Cyber Github" width="250" src="21ee54c4153a4f85d2ab53dbe2e172b8.gif"> -->
-<img align="right" alt="Cyber Github" width="250" src="hello.gif">
+<img width="420px" align="right" alt="That's the arcane" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFycnYyM2JvMTl1c2FlOW16dDh6dWMxZzV5ZmQweGNteTk0a3k2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B00q7QKzzRQ0qPZ7Pn/giphy.gif">
+<!-- <img align="right" alt="Cyber Github" width="250" src="hello.gif"> -->
 <!-- <img align="right" alt="Cyber Github" width="250" src="Interstellar-Garguantua.gif"> -->
 
 - 🔭 I’m currently working on rechecking my skills
 - 🌱 I’m currently learning web development (React/Advanced js)
 - 🌱 I’m Also learning Python and ML Basics
 - 📉 I’m a Machine Learning and deep learning enthusiast
-- 🤔 I’m looking for help with getting real-world experience in web/ML projects
+- 🤔 I’m looking for help with getting real-world experience/projects
 - ⚡ Fun fact: I love to write, I do write sometimes, I like water
 
 <!-- <p align="left">
