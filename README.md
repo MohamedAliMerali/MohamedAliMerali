@@ -5,7 +5,7 @@
 <section class="container">
     
 <h1 align="center">Hi there 👋, It's Mohamed Ali!</h1>
-<h3 align="center">Computer vision Student At USTHB</h3>
+<h3 align="center">A Computer vision Graduate from USTHB<br>Front-end developer / Python & ML enthusiast</h3>
 
 #
 
