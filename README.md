@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning web development (React/Advanced js)
 - 🌱 I’m Also learning Python and ML Basics
 - 📉 I’m a Machine Learning and deep learning enthusiast
-- 🤔 I’m looking for help with getting real-world experience/projects
+- 🤔 I’m looking for help with getting real-world experience/project
 - ⚡ Fun fact: I love to write, I do write sometimes, I like water
 
 <!-- <p align="left">
