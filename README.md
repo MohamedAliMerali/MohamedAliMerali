@@ -9,14 +9,16 @@
 
 #
 
+<!-- <img align="right" alt="Cyber Github" width="250" src="21ee54c4153a4f85d2ab53dbe2e172b8.gif"> -->
 <img align="right" alt="Cyber Github" width="250" src="hello.gif">
+<!-- <img align="right" alt="Cyber Github" width="250" src="Interstellar-Garguantua.gif"> -->
 
 - 🔭 I’m currently working on rechecking my skills
 - 🌱 I’m currently learning web development (React/Advanced js)
 - 🌱 I’m Also learning Python and ML Basics
 - 📉 I’m a Machine Learning and deep learning enthusiast
-- 🤔 I’m looking for help with getting real world experience in web/ML projects
-- ⚡ Fun fact: I love to write, i do write sometimes, i like water
+- 🤔 I’m looking for help with getting real-world experience in web/ML projects
+- ⚡ Fun fact: I love to write, I do write sometimes, I like water
 
 <!-- <p align="left">
 <img width="60" src="https://komarev.com/ghpvc/?username=MuhammedMiiRanna&label=Profile%20views&color=0e75b6&style=flat" alt="ilieschibane" />
