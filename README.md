@@ -112,7 +112,7 @@
 
 <!-- <img width="60" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammedMiiRanna&&show_icons=true&theme=dark" alt="MuhammedMiiRanna" /> -->
 
-<p align=center><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliMerali&theme=dark" alt="Mohamed Ali Merali" /></p>
+<!-- <p align=center><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliMerali" alt="Mohamed Ali Merali" /></p> -->
 
 
 <p align=center>
