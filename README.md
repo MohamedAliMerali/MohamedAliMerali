@@ -107,17 +107,17 @@
 </section>
 
 <p align=center style="margin-bottom: 60px;">
-    <img align=center src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammedMiiRanna&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="MuhammedMiiRanna" />
+    <img align=center src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedAliMerali&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="Mohamed Ali Merali" />
 </p>
 
 <!-- <img width="60" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammedMiiRanna&&show_icons=true&theme=dark" alt="MuhammedMiiRanna" /> -->
 
-<p align=center><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMiiRanna&theme=dark" alt="MuhammedMiiRanna" /></p>
+<p align=center><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliMerali&theme=dark" alt="MuhammedMiiRanna" /></p>
 
 
 <p align=center>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align=center src="https://github-profile-trophy.vercel.app/?username=MuhammedMiiRanna" alt="MuhammedMiiRanna" />
+    <img align=center src="https://github-profile-trophy.vercel.app/?username=MohamedAliMerali" alt="Mohamed Ali Merali" />
 </a>
 </p>
 
