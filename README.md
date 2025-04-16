@@ -107,7 +107,7 @@
 </section>
 
 <p align=center style="margin-bottom: 60px;">
-    <img align=center src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedAliMerali&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact](https://camo.githubusercontent.com/f2c5e097df076ceede43f003894dfe66da928e8450f3d798084f021ae92c6f5d/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f68616d6564416c694d6572616c692673686f775f69636f6e733d74727565267468656d653d6461726b2663616368655f7365636f6e64733d31383030266c6f63616c653d656e266c61796f75743d636f6d70616374)" alt="Mohamed Ali Merali" />
+    <img align=center src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedAliMerali&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="Mohamed Ali Merali" />
 </p>
 
 <!-- <img width="60" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammedMiiRanna&&show_icons=true&theme=dark" alt="MuhammedMiiRanna" /> -->
