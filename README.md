@@ -14,11 +14,10 @@
 <!-- <img align="right" alt="Cyber Github" width="250" src="hello.gif"> -->
 <!-- <img align="right" alt="Cyber Github" width="250" src="Interstellar-Garguantua.gif"> -->
 
-- 🔭 I’m currently working on rechecking my skills
-- 🌱 I’m currently learning web development (React/Advanced js)
+- 🔭 I’m currently working on enhancing my skills
+- 🌱 I’m currently learning web development (NextJs/Advanced js)
 - 🌱 I’m Also learning Python and ML Basics
 - 📉 I’m a Machine Learning and deep learning enthusiast
-- 🤔 I’m looking for help with getting real-world experience/project
 - ⚡ Fun fact: I love to write, I do write sometimes, I like water
 
 <!-- <p align="left">
